@@ -1,7 +1,7 @@
 # Discord Bot
 
 ### Brief description of the Discord Bot
-The Discord bot named Samet is an advanced music finder and playback bot. Designed to address the shortcoming created by the removal of music bots. In addition to these, it also contains commands that are not related to music.
+The Discord bot named Vader is an advanced music finder and playback bot. Designed to address the shortcoming created by the removal of music bots. In addition to these, it also contains commands that are not related to music.
 
 ---
 ### Technologies
